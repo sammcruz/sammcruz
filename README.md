@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hello, I'm Samantha Cruz</h1>
+
+
+<a href="https://github.com/sammcruz"><img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/samanthacruz-oceanengineer/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:samantha@poli.ufrj.br"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+
