@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Stranger! ✨
 
 <!--
 **sammcruz/sammcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello, I'm Samantha Cruz</h1>
-
+<h1>My name is Samantha Cruz</h1>
 
 <a href="https://github.com/sammcruz"><img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/samanthacruz-oceanengineer/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:samantha@poli.ufrj.br"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+
+<ul>
+  <li>&nbsp;🌊 &nbsp;&nbsp; I'm Naval Architect and Ocean Engineering </li>
+  <li>&nbsp;🌧️ &nbsp;&nbsp; I'm a second-year student in a Master's program in Meteorology </li>
+</ul>
+
+---
+
+## 📚 Studying
+
+<p>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+---
 
 ## My Github Stats:
 
