@@ -1,4 +1,4 @@
-### Hello Stranger! ✨
+### Hello there! ✨
 
 <!--
 **sammcruz/sammcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
