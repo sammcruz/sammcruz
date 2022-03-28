@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 <center>
 <table>
   <tr>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=sammcruz&show_icons=true&theme=dracula&line_height=27" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=sammcruz&show_icons=true&theme=darcula&line_height=27" /></td>
      </td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammcruz&show_icons=true&theme=dracula&line_height=27"  /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammcruz&show_icons=true&theme=darcula&line_height=27"  /></td>
   </tr>  
 </table>
 </center>
 
   ---
-  <img width="880px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammcruz&&theme=dracula"/>
+  <img width="880px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammcruz&&theme=dark"/>
  
- <img width="880px" align="center" src="https://activity-graph.herokuapp.com/graph?username=sammcruz&theme=dracula"/>
+ <img width="880px" align="center" src="https://activity-graph.herokuapp.com/graph?username=sammcruz&theme=xcode"/>
