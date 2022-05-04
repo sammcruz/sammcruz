@@ -8,6 +8,7 @@
   <li>&nbsp;👩🏽 &nbsp;&nbsp; Pronouns: she/her </li>
   <li>&nbsp;🌊 &nbsp;&nbsp; I'm Naval Architect and Ocean Engineering, and I'm a second-year student in a Master's program in Meteorology </li>
   <li>&nbsp;🔭 &nbsp;&nbsp; I’m currently working on Meteo-Oceanographic Data Analysis, Satellite Imagery and Remote Sensing </li>
+  <li>&nbsp;💻 &nbsp;&nbsp; I have extensive experience in Python and Matlab languages. I also have some knowledge in Power BI, Tableau, AWS, QGis and SQL.</li>
 </ul>
 
 ### 🚀 My Skills
