@@ -7,8 +7,8 @@
 <ul>
   <li>&nbsp;👩🏽 &nbsp;&nbsp; Pronouns: she/her </li>
   <li>&nbsp;🌊 &nbsp;&nbsp; I have a Bachelor of Sciences in Naval and Oceanic Engineering from the Polytechnic School of Federal University of Rio de Janeiro and a Master Degree in Business Intelligence, Big Data and Analytics from Anhanguera University. </li>
-  <li>&nbsp;💻 &nbsp;&nbsp; I have over 5 years of experience analyzing large datasets, I bring expertise in statistical analysis, data visualization, and data quality, specifically in the realm of product data. </li>
-  <li>&nbsp;🔭 &nbsp;&nbsp; I am a dedicated problem solver who looks for ways to improve data analysis processes and uncover hidden insights. I have a strong analytical thinking, flexibility, and ability to work independently and as part of a team. </li>
+  <li>&nbsp;💻 &nbsp;&nbsp; I have over 7 years of experience analyzing large datasets, I bring expertise in statistical analysis, data visualization, and data quality, specifically in the realm of product data. </li>
+  <li>&nbsp;🔭 &nbsp;&nbsp; I am a dedicated problem solver who looks for ways to improve data analysis processes and uncover hidden insights. I have strong analytical thinking, flexibility, and the ability to work independently and as part of a team. </li>
 </ul>
 
 
