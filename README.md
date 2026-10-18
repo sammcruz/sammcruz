@@ -37,6 +37,7 @@ I also teach (Databricks instructor since 2024), speak at community events and w
 | Project | What it is |
 |---|---|
 | [**traceable-jobradar-poc**](https://github.com/sammcruz/traceable-jobradar-poc) | A fully open-source AI data pipeline that runs on a laptop. It collects job ads from public APIs, enriches them with local models, and matches them to a CV that never leaves the machine. Delta Lake tables, OpenLineage events, data contracts, retention and a lineage-driven erasure command. |
+| [**DataEngAgents**](https://github.com/sammcruz/DataEngAgents) | A sanitized, reusable template for running AI coding agents against Microsoft Fabric and Azure DevOps: work items, wiki pages, workspaces and notebooks, with layered agent context and a dry-run-first safety model. |
 | [**Satellite_Imagery_Analysis**](https://github.com/sammcruz/Satellite_Imagery_Analysis) | Scripts to acquire and process satellite image data, from my oceanography background. |
 | [**certifications**](https://github.com/sammcruz/certifications) | Licenses and certifications. |
 
