@@ -68,7 +68,7 @@ From my [blog on Medium](https://sammcruz.medium.com/):
 
 ## Certifications
 
-- Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- Microsoft Certified: Azure Databricks Data Engineer Associate
 - Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
 - Databricks Certified Generative AI Engineer Associate
 - Databricks Certified Data Engineer Associate
